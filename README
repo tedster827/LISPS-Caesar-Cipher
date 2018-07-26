@@ -1,0 +1,29 @@
+Teddy Williams
+November 28, 2016
+CS 351
+
+
+First Compile:
+
+clisp -c williams.lsp
+
+Enter CLISP:
+
+clisp
+
+To Encrypt:
+
+Example:
+(encode '(A B C))
+
+Output Example:
+F G H
+NIL
+
+To Decrypt:
+Example:
+(decode '(A B C))
+
+Output Example:
+A B C
+NIL
